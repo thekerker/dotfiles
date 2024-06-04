@@ -27,7 +27,8 @@ export TERM="xterm-256color"
 #ZSH_THEME="robbyrussell"
 #ZSH_THEME="powerlevel10k/powerlevel10k"
 #ZSH_THEME="neo/neo"
-ZSH_THEME="bullet-train.zsh/bullet-train-catppuccin"
+#ZSH_THEME="bullet-train.zsh/bullet-train-catppuccin"
+ZSH_THEME="ohmyzsh-theme-passion/passion"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
