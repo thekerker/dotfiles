@@ -16,7 +16,7 @@ export ZSH="$HOME/.oh-my-zsh"
 #export JAVA_HOME="/usr/lib/jvm/java-20-openjdk-20.0.0.0.36-1.rolling.fc38.x86_64"
 #export JAVA_HOME="/usr/lib/jvm/java-21-openjdk-21.0.0.0.35-1.rolling.fc38.x86_64-fastdebug"
 #export JAVA_HOME="/usr/lib/jvm/java-17-openjdk"
-export JAVA_HOME="/usr/lib/jvm/java-22-openjdk"
+export JAVA_HOME="/usr/lib/jvm/java-21-openjdk"
 
 export TERM="xterm-256color"
 
