@@ -119,10 +119,10 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ll="ls -lahG"
+#alias ll="ls -lahG"
 # alias alacritty="env -u WAYLAND_DISPLAY alacritty"
 alias biosinfo="sudo dmidecode | grep -A3 'Vendor:\|Product:' && sudo lshw -C cpu | grep -A3 'product:\|vendor:'"
-alias el="exa -abghlS --group-directories-first --icons"
+alias ll="exa -abghlS --group-directories-first --icons"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
